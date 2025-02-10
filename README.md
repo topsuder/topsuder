@@ -13,5 +13,5 @@
 - [《JVM调优黄金法则》](你的博客链接)
 
 📫 **找到我**  
-[![领英](https://img.shields.io/badge/LinkedIn-专业连接-0A66C2?logo=linkedin)](www.linkedin.com/in/topsuder)  
+[![领英](https://img.shields.io/badge/LinkedIn-专业连接-0A66C2?logo=linkedin)](https://www.linkedin.com/in/topsuder)  
 [![微信公众号](https://img.shields.io/badge/公众号-技术洞见-07C160?logo=wechat)](你的公众号二维码)
