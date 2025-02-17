@@ -9,8 +9,6 @@
 
 
 📌 **技术见解**  
-- [《Spring Cloud Alibaba实战踩坑录》](你的博客链接)
-- [《JVM调优黄金法则》](你的博客链接)
 
 📫 **找到我**  
 [![领英](https://img.shields.io/badge/LinkedIn-专业连接-0A66C2?logo=linkedin)](https://www.linkedin.com/in/topsuder)  
