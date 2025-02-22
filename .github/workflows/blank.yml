@@ -8,6 +8,8 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
+    environment: 
+      name: production
     runs-on: ubuntu-latest
     permissions:
       contents: write
