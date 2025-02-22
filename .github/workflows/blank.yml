@@ -43,7 +43,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_notable: yes
-          plugin_notable_from: user
+          plugin_notable_from: all
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
           plugin_notable_self: yes
